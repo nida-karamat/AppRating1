@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "rating-app",
+=======
+  "name": "ratingapp",
+>>>>>>> fb55ff398d989a966f2006b1a87da672ef9a4c17
   "private": true,
   "version": "0.0.0",
   "type": "module",
